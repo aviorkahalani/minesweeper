@@ -17,7 +17,7 @@ You can play the game [here](https://aviorkahalani.github.io/minesweeper/). (Add
 
 ---
 
-## ![Minesweeper Game Screenshot](https://res.cloudinary.com/avior-projects/image/upload/v1716323182/78ce2ee3-1323-4ff6-b670-3ee365379fe8.png)
+![minesweeper game](assets/screenshots/image.png)
 
 ## Features
 
